@@ -13,6 +13,8 @@ The player penguin gets 5 random cards with different elements and levels, and t
 
 Object-Oriented Programming Logic is included with class "Card" and the necessary functions to play the game. Documentation of all the FEH functions used can be found [here](https://u.osu.edu/fehproteus/programming-syntax/).
 
+[Website here](https://u.osu.edu/fehsdp2021pac0800h1/) **The password is: `SDPH108002021`**
+
 ## [Robot Competition Project](https://eed.osu.edu/academics/first-year-engineering-program/fundamentals-engineering-competitions/robotics-competition)
 Me and three other teammates worked together in buliding a robot that would complete tasks in a specified environment as quickly as possible. 
 
@@ -24,3 +26,5 @@ Additionally, I did a large section of writing the final report paper which cont
 Using the same OSU Proteus Microcontroller from before (except this time, utilizing several more libraries), the Robot would move around the course. 
 
 The environment given to us by OSU faculty included a Robot-Positioning-System (RPS) that would return an X and Y coordinate of where the robot is. Using this and several calculated constants after weeks of testing, we created code with a very high success rate of the robot completing several tasks using the physical parts we added to the robot.
+
+[Website here](https://u.osu.edu/feh22g5/) **The password is: `FEHROBOT22`**
